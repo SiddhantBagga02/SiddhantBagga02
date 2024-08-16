@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SiddhantBagga
-- 👀 I’m interested in Learning Technology in Deep
+- 👀 I’m interested in Learning Technology 
 - 🌱 I’m currently learning C Language
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me - You Can reach me on linkedIn, X and Instagram
