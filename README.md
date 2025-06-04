@@ -1,15 +1,51 @@
+👋 Hi, I'm Siddhant Bagga
+🎓 Computer Science Undergrad at Vellore Institute of Technology, Bhopal
+💡 Passionate about building intelligent systems that combine AI, data, and product thinking to solve real-world problems
+📍 Based in Raipur, India
+📫 Reach me on LinkedIn | 📂 GitHub
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/BigManSidd#7571) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sddhnt02/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhant-bagga-/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Siddhant02B) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/bigmansidd) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sddhnt02) 
+🛠️ Tech Stack
+Languages: Python, C, JavaScript, SQL
+Frameworks & Tools: Flask, React.js, OpenCV, FFmpeg, TensorFlow, Keras, Qlik Sense, GitHub, Twilio API, WhatsApp API
+Data Skills: Data Analysis, Visualization, LSTM, Time-Series Forecasting, Dashboarding
+Other: Google Sheets, SQLite, Webhook Integration, CSV/SQL data wrangling
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+📈 Projects
+🔍 Deepfake Filter for Live Streams
+Tech: OpenCV, FFmpeg, RTX 3050, Flask, React.js
+Developed a low-latency (<200ms) deepfake detection system with a real-time frontend.
+Built on optimized GPU models and enabled live video filtering, detection toggles, and interactive results display.
 
+Computer Vision | Deep Learning | Real-time Inference | Media Streaming
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SiddhantBagga02&limit=5&theme=dark&combine_all_yearly_contributions=true)
+💧 JalDarpan – Water Demand Forecasting using LSTM
+Tech: LSTM, TensorFlow, Flask, Keras, Time Series
+Built a forecasting model to predict daily water consumption at 92% accuracy for VIT Bhopal campus (20% water-scarce).
+Trained on 5+ years of rainfall + groundwater data, enabling proactive water allocation and reducing supply-demand gaps by 15%.
 
----
-[![](https://visitcount.itsvg.in/api?id=SiddhantBagga02&icon=0&color=0)](https://visitcount.itsvg.in)
+Time Series | LSTM | Resource Planning | Data Forecasting
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+📱 WhatsApp Expense Tracker Bot
+Tech: Flask, WhatsApp API, Twilio, NLP, SQLite
+A conversational bot to process natural language expense inputs from WhatsApp and track/manage personal finance.
+Achieved 95%+ accuracy in recognizing user commands and responding with categorized reports.
+
+NLP | WhatsApp Bot | Expense Tracking | User Intent Recognition
+
+📊 Internship Experience
+🧠 Data Analyst Intern, SmartInternz
+Used Qlik Sense to analyze nationwide road safety datasets, visualizing accident patterns from 40,000+ cases.
+Created dashboards and targeted safety recommendations using public CSV and SQL data.
+
+📚 Certifications
+Blockchain Fundamentals & Developer – IBM (Apr 2025)
+
+Problem Solvers: DSA & Algorithms – FACE Prep (Apr 2025)
+
+📌 Let’s Connect!
+💼 Looking for product or data-focused internships where I can make meaningful contributions
+
+🌱 Always learning and building with AI, data, and web tech
+
+🔍 Exploring real-world problems in infrastructure, safety, and sustainability
+
