@@ -8,7 +8,7 @@ Computer Science undergraduate at Vellore Institute of Technology, Bhopal, with 
 
 ## Technical Skills
 
-**Languages:** Python, C, JavaScript, SQL  
+**Languages:** Python, Java, JavaScript, SQL  
 **Frameworks & Tools:** Flask, React.js, OpenCV, FFmpeg, TensorFlow, Keras, Qlik Sense, GitHub, Twilio API, WhatsApp API  
 **Data Skills:** Data Analysis, Data Visualization, LSTM, Time-Series Forecasting, Dashboarding  
 **Other:** Google Sheets, SQLite, Webhook Integration, Data Wrangling (CSV/SQL)
@@ -44,6 +44,4 @@ Worked with Qlik Sense to analyze nationwide road safety datasets from over 40,0
 - **Blockchain Fundamentals & Developer** – IBM (April 2025)  
 - **Problem Solvers: DSA & Algorithms** – FACE Prep (April 2025)
 
-## Looking Ahead
 
-I am actively seeking data-driven or product-focused internship opportunities where I can make meaningful contributions. Constantly exploring new ways to apply AI, data science, and web technologies to solve real-world infrastructure, sustainability, and safety challenges.
