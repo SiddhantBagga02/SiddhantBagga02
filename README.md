@@ -4,7 +4,7 @@ Computer Science undergraduate at Vellore Institute of Technology, Bhopal, with 
 
 - Location: Raipur, India  
 - LinkedIn: [Siddhant Bagga](https://www.linkedin.com/in/siddhant-bagga-/)  
-- GitHub: [github.com/SiddhantBagga02](https://github.com/SiddhantBagga02)
+- GitHub: [SiddhantBagga02](https://github.com/SiddhantBagga02)
 
 ## Table of Contents
 
