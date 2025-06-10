@@ -10,12 +10,12 @@ Computer Science undergraduate at Vellore Institute of Technology, Bhopal, with 
 
 - [Technical Skills](#technical-skills)  
 - [Projects](#projects)  
-  - [Deepfake Filter for Live Streams](#deepfake-filter-for-live-streams)  
   - [JalDarpan – Water Demand Forecasting using LSTM](#jaldarpan--water-demand-forecasting-using-lstm)  
-  - [WhatsApp Expense Tracker Bot](#whatsapp-expense-tracker-bot)  
+  - [WhatsApp Expense Tracker Bot](#whatsapp-expense-tracker-bot)
+  - [Deepfake Filter for Live Streams](#deepfake-filter-for-live-streams)    
 - [Internship Experience](#internship-experience)  
 - [Certifications](#certifications)  
-- [Looking Ahead](#looking-ahead)
+
 
 ## Technical Skills
 
@@ -26,24 +26,26 @@ Computer Science undergraduate at Vellore Institute of Technology, Bhopal, with 
 
 ## Projects
 
-### Deepfake Filter for Live Streams  
-**Tech Stack:** OpenCV, FFmpeg, RTX 3050, Flask, React.js  
-Developed a low-latency deepfake detection system with real-time frontend. Integrated optimized GPU models for live video filtering with detection toggles and interactive results display.  
-**Domains:** Computer Vision, Deep Learning, Real-time Inference, Media Streaming
-
----
-
-### JalDarpan – Water Demand Forecasting using LSTM  
+### [JalDarpan – Water Demand Forecasting using LSTM](https://github.com/SiddhantBagga02/JalDarpan) 
 **Tech Stack:** TensorFlow, Keras, Flask, LSTM  
 Created a forecasting model to predict daily water consumption with 92% accuracy for the VIT Bhopal campus. Trained on five years of rainfall and groundwater data, enabling proactive water allocation and reducing supply-demand gaps by 15%.  
 **Domains:** Time Series Analysis, Resource Planning, Data Forecasting
 
+
 ---
 
-### WhatsApp Expense Tracker Bot  
+### [WhatsApp Expense Tracker Bot](https://github.com/SiddhantBagga02/Whatsapp-Expense-Tracker)  
 **Tech Stack:** Flask, WhatsApp API, Twilio, SQLite, NLP  
 Built a conversational bot for WhatsApp to track and manage personal expenses through natural language inputs. Achieved over 95% accuracy in interpreting user intents and delivering categorized financial reports.  
 **Domains:** Natural Language Processing, Chatbots, Personal Finance Automation
+
+---
+
+### [Deepfake Filter for Live Streams](https://github.com/SiddhantBagga02/Deepfake-Filter-for-Live-Streams)  
+**Tech Stack:** OpenCV, FFmpeg, RTX 3050, Flask, React.js  
+Developed a low-latency deepfake detection system with real-time frontend. Integrated optimized GPU models for live video filtering with detection toggles and interactive results display.  
+**Domains:** Computer Vision, Deep Learning, Real-time Inference, Media Streaming
+
 
 ## Internship Experience
 
