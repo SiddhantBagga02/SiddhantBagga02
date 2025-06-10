@@ -1,51 +1,49 @@
-👋 Hi, I'm Siddhant Bagga
-🎓 Computer Science Undergrad at Vellore Institute of Technology, Bhopal
-💡 Passionate about building intelligent systems that combine AI, data, and product thinking to solve real-world problems
-📍 Based in Raipur, India
-📫 Reach me on LinkedIn | 📂 GitHub
+# Hi, I'm Siddhant Bagga
 
-🛠️ Tech Stack
-Languages: Python, C, JavaScript, SQL
-Frameworks & Tools: Flask, React.js, OpenCV, FFmpeg, TensorFlow, Keras, Qlik Sense, GitHub, Twilio API, WhatsApp API
-Data Skills: Data Analysis, Visualization, LSTM, Time-Series Forecasting, Dashboarding
-Other: Google Sheets, SQLite, Webhook Integration, CSV/SQL data wrangling
+Computer Science undergraduate at Vellore Institute of Technology, Bhopal, with a strong passion for building intelligent systems that combine AI, data, and product thinking to solve real-world problems.
 
-📈 Projects
-🔍 Deepfake Filter for Live Streams
-Tech: OpenCV, FFmpeg, RTX 3050, Flask, React.js
-Developed a low-latency (<200ms) deepfake detection system with a real-time frontend.
-Built on optimized GPU models and enabled live video filtering, detection toggles, and interactive results display.
+- Location: Raipur, India  
+- LinkedIn: [Your LinkedIn URL]  
+- GitHub: [Your GitHub URL]
 
-Computer Vision | Deep Learning | Real-time Inference | Media Streaming
+## Technical Skills
 
-💧 JalDarpan – Water Demand Forecasting using LSTM
-Tech: LSTM, TensorFlow, Flask, Keras, Time Series
-Built a forecasting model to predict daily water consumption at 92% accuracy for VIT Bhopal campus (20% water-scarce).
-Trained on 5+ years of rainfall + groundwater data, enabling proactive water allocation and reducing supply-demand gaps by 15%.
+**Languages:** Python, C, JavaScript, SQL  
+**Frameworks & Tools:** Flask, React.js, OpenCV, FFmpeg, TensorFlow, Keras, Qlik Sense, GitHub, Twilio API, WhatsApp API  
+**Data Skills:** Data Analysis, Data Visualization, LSTM, Time-Series Forecasting, Dashboarding  
+**Other:** Google Sheets, SQLite, Webhook Integration, Data Wrangling (CSV/SQL)
 
-Time Series | LSTM | Resource Planning | Data Forecasting
+## Projects
 
-📱 WhatsApp Expense Tracker Bot
-Tech: Flask, WhatsApp API, Twilio, NLP, SQLite
-A conversational bot to process natural language expense inputs from WhatsApp and track/manage personal finance.
-Achieved 95%+ accuracy in recognizing user commands and responding with categorized reports.
+### Deepfake Filter for Live Streams  
+**Tech Stack:** OpenCV, FFmpeg, RTX 3050, Flask, React.js  
+Developed a low-latency deepfake detection system with real-time frontend. Integrated optimized GPU models for live video filtering with detection toggles and interactive results display.  
+**Domains:** Computer Vision, Deep Learning, Real-time Inference, Media Streaming
 
-NLP | WhatsApp Bot | Expense Tracking | User Intent Recognition
+---
 
-📊 Internship Experience
-🧠 Data Analyst Intern, SmartInternz
-Used Qlik Sense to analyze nationwide road safety datasets, visualizing accident patterns from 40,000+ cases.
-Created dashboards and targeted safety recommendations using public CSV and SQL data.
+### JalDarpan – Water Demand Forecasting using LSTM  
+**Tech Stack:** TensorFlow, Keras, Flask, LSTM  
+Created a forecasting model to predict daily water consumption with 92% accuracy for the VIT Bhopal campus. Trained on five years of rainfall and groundwater data, enabling proactive water allocation and reducing supply-demand gaps by 15%.  
+**Domains:** Time Series Analysis, Resource Planning, Data Forecasting
 
-📚 Certifications
-Blockchain Fundamentals & Developer – IBM (Apr 2025)
+---
 
-Problem Solvers: DSA & Algorithms – FACE Prep (Apr 2025)
+### WhatsApp Expense Tracker Bot  
+**Tech Stack:** Flask, WhatsApp API, Twilio, SQLite, NLP  
+Built a conversational bot for WhatsApp to track and manage personal expenses through natural language inputs. Achieved over 95% accuracy in interpreting user intents and delivering categorized financial reports.  
+**Domains:** Natural Language Processing, Chatbots, Personal Finance Automation
 
-📌 Let’s Connect!
-💼 Looking for product or data-focused internships where I can make meaningful contributions
+## Internship Experience
 
-🌱 Always learning and building with AI, data, and web tech
+**Data Analyst Intern – SmartInternz**  
+Worked with Qlik Sense to analyze nationwide road safety datasets from over 40,000 records. Built dashboards and generated data-driven safety recommendations using public CSV and SQL data sources.
 
-🔍 Exploring real-world problems in infrastructure, safety, and sustainability
+## Certifications
 
+- **Blockchain Fundamentals & Developer** – IBM (April 2025)  
+- **Problem Solvers: DSA & Algorithms** – FACE Prep (April 2025)
+
+## Looking Ahead
+
+I am actively seeking data-driven or product-focused internship opportunities where I can make meaningful contributions. Constantly exploring new ways to apply AI, data science, and web technologies to solve real-world infrastructure, sustainability, and safety challenges.
