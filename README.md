@@ -3,8 +3,8 @@
 Computer Science undergraduate at Vellore Institute of Technology, Bhopal, with a strong passion for building intelligent systems that combine AI, data, and product thinking to solve real-world problems.
 
 - Location: Raipur, India  
-- LinkedIn: [Your LinkedIn URL]  
-- GitHub: [Your GitHub URL]
+- LinkedIn: [https://www.linkedin.com/in/siddhant-bagga-/]  
+- GitHub: [(https://github.com/SiddhantBagga02)]
 
 ## Technical Skills
 
