@@ -6,6 +6,17 @@ Computer Science undergraduate at Vellore Institute of Technology, Bhopal, with 
 - LinkedIn: [https://www.linkedin.com/in/siddhant-bagga-/]  
 - GitHub: [(https://github.com/SiddhantBagga02)]
 
+## Table of Contents
+
+- [Technical Skills](#technical-skills)  
+- [Projects](#projects)  
+  - [Deepfake Filter for Live Streams](#deepfake-filter-for-live-streams)  
+  - [JalDarpan – Water Demand Forecasting using LSTM](#jaldarpan--water-demand-forecasting-using-lstm)  
+  - [WhatsApp Expense Tracker Bot](#whatsapp-expense-tracker-bot)  
+- [Internship Experience](#internship-experience)  
+- [Certifications](#certifications)  
+- [Looking Ahead](#looking-ahead)
+
 ## Technical Skills
 
 **Languages:** Python, Java, JavaScript, SQL  
