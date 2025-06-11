@@ -19,11 +19,12 @@ Computer Science undergraduate at Vellore Institute of Technology, Bhopal, with 
 
 ## Technical Skills
 
-**Languages:** Python, Java, JavaScript, SQL  
-**Frameworks & Tools:** Flask, React.js, OpenCV, FFmpeg, TensorFlow, Keras, Qlik Sense, GitHub, Twilio API, WhatsApp API  
-**Data Skills:** Data Analysis, Data Visualization, LSTM, Time-Series Forecasting, Dashboarding  
-**Other:** Google Sheets, SQLite, Webhook Integration, Data Wrangling (CSV/SQL)
-
+**Languages**: Python, JavaScript, SQL, Java  
+**Web Technologies**: React.js, HTML5, CSS3, Flask  
+**Tools & Libraries**: Qlik Sense, OpenCV, FFmpeg, Pandas, Matplotlib, Git, GitHub  
+**Databases**: MySQL, SQLite  
+**Analytics & Visualization**: Qlik Sense, Excel, Google Sheets, Flask Dashboards  
+**Concepts**: Data Structures, Machine Learning, Deep Learning, Time Series, NLP, API Integration, Computer Network.
 ## Projects
 
 ### [JalDarpan – Water Demand Forecasting using LSTM](https://github.com/SiddhantBagga02/JalDarpan) 
@@ -51,10 +52,11 @@ Developed a low-latency deepfake detection system with real-time frontend. Integ
 
 **Data Analyst Intern – SmartInternz**  
 Worked with Qlik Sense to analyze nationwide road safety datasets from over 40,000 records. Built dashboards and generated data-driven safety recommendations using public CSV and SQL data sources.
+[View Dashboards & Visuals on GitHub](https://github.com/SiddhantBagga02/Qlik-Analysis-Of-Road-Safety-And-Accident-Patterns-In-India)
 
 ## Certifications
 
-- **Blockchain Fundamentals & Developer** – IBM (April 2025)  
-- **Problem Solvers: DSA & Algorithms** – FACE Prep (April 2025)
+**IBM Career Education Program** – Blockchain Fundamentals & Developer                      
+**FACE Prep** – Problem Solvers: Mastering Data Structures and Algorithm       
 
 
